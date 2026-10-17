@@ -1,0 +1,29 @@
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ขอบคุณที่เสนอไอเดีย! อธิบายให้เห็นภาพจะช่วยให้คุยกันง่ายขึ้น
+  - type: textarea
+    id: problem
+    attributes:
+      label: ปัญหา / ความต้องการ
+      description: อยากแก้ปัญหาอะไร หรืออยากได้อะไร
+      placeholder: "เช่น ปัจจุบันต้องพิมพ์คำสั่งยาวทุกครั้ง..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: แนวทางที่เสนอ
+      description: คิดว่าน่าจะทำอย่างไร
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: ข้อมูลเพิ่มเติม
+      description: ตัวอย่าง ลิงก์ หรือทางเลือกอื่น ๆ
+    validations:
+      required: false

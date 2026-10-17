@@ -1,0 +1,28 @@
+title: "[Q&A] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ตั้งคำถามให้ชัด จะได้คำตอบที่ตรงที่สุด (หมวดนี้เลือก "คำตอบที่ถูกต้อง" ได้)
+  - type: textarea
+    id: question
+    attributes:
+      label: คำถาม
+      description: อยากรู้เรื่องอะไร
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: สิ่งที่ลองแล้ว
+      description: ลองทำอะไรมาบ้าง ได้ผลอย่างไร
+    validations:
+      required: false
+  - type: input
+    id: env
+    attributes:
+      label: สภาพแวดล้อม
+      description: OS / เวอร์ชัน / เครื่องมือที่ใช้
+    validations:
+      required: false

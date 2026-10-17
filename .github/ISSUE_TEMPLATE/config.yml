@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/Saharat-labs/community/discussions
+    about: ถามคำถาม แลกเปลี่ยนไอเดีย หรือคุยทั่วไป
+  - name: 🌐 หน้าองค์กร
+    url: https://github.com/Saharat-labs
+    about: ดูโปรเจกต์ทั้งหมดของ Saharat Labs
