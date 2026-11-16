@@ -20,7 +20,7 @@
 
 ## 🚀 โปรเจกต์ของเรา
 
-- **[pydroid](https://github.com/Saharat-labs/pydroid)** — Python REPL บนเบราว์เซอร์ (Pyodide)
+- ดูรายการโปรเจกต์ทั้งหมดได้ที่ **[all-in-one](https://zetxero-main.github.io/all-in-one/)**
 
 ## 🤝 ร่วมพัฒนา
 
@@ -30,5 +30,5 @@
 
 ## 🔗 ลิงก์
 
-- องค์กร: <https://github.com/Saharat-labs>
-- โปรไฟล์องค์กร: [profile/README.md](https://github.com/Saharat-labs/.github/blob/main/profile/README.md)
+- องค์กร: <https://github.com/zetxero-main>
+- โปรไฟล์องค์กร: [profile/README.md](https://github.com/zetxero-main/.github/blob/main/profile/README.md)
