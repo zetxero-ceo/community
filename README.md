@@ -20,7 +20,7 @@
 
 ## 🚀 โปรเจกต์ของเรา
 
-- ดูรายการโปรเจกต์ทั้งหมดได้ที่ **[all-in-one](https://zetxero-main.github.io/all-in-one/)**
+- ดูรายการโปรเจกต์ทั้งหมดได้ที่ **[all-in-one](https://zetxero-ceo.github.io/all-in-one/)**
 
 ## 🤝 ร่วมพัฒนา
 
@@ -30,5 +30,5 @@
 
 ## 🔗 ลิงก์
 
-- องค์กร: <https://github.com/zetxero-main>
+- บัญชี: <https://github.com/zetxero-ceo>
 - โปรไฟล์องค์กร: [profile/README.md](https://github.com/zetxero-main/.github/blob/main/profile/README.md)
